@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Just"
+  given-names: "Julian"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Ströhle"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Füller"
+  given-names: "Johann"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Hutter"
+  given-names: "Katja"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "AI-based novelty detection in crowdsourced idea spaces"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2023-05-16
+url: "https://github.com/ThomasStroehle/Novelty"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Just"
+  given-names: "Julian"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Ströhle"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Füller"
+  given-names: "Johann"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Hutter"
+  given-names: "Katja"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "AI-based novelty detection in crowdsourced idea spaces"
+  issue: 1
+  volume: 1
+  year: 2023
